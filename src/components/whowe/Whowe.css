@@ -1,0 +1,184 @@
+.whowe_container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  padding: 30px;
+  margin-top: 20px;
+}
+
+.whowe_card {
+  box-shadow: rgba(60, 64, 67, 0.3) 0px 1px 2px 0px,
+    rgba(60, 64, 67, 0.15) 0px 2px 6px 2px;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  gap: 40px;
+  width: 85vw;
+  padding: 50px 50px;
+  border: none;
+  background-color: #f6f4f0;
+  border-radius: 20px;
+  /* border: 2px solid var(--dark1); */
+}
+
+.whowe_card legend {
+  font-size: 3rem;
+  text-align: center;
+  font-weight: 600;
+  color: #141a28;
+  /* text-shadow: 3px 2px 8px grey; */
+  /* text-decoration: underline; */
+}
+
+.whowe_card legend span {
+  color: #4ca7e8;
+  font-size: 5rem;
+}
+
+.weRight {
+  display: flex;
+  flex-direction: column;
+}
+
+.weRight h1 {
+  font-size: 2.8rem;
+  color: black;
+  padding: 20px 0;
+}
+
+.weRight h1 .spanone {
+  font-size: 4rem;
+}
+
+.weRight h1 .spantwo {
+  color: #4ca7e8;
+  text-decoration: underline;
+}
+
+.weRight p {
+  opacity: 0.6;
+  font-weight: 500;
+  padding: 0;
+  letter-spacing: 1px;
+  word-spacing: 1px;
+}
+
+.weRight ul {
+  padding: 20px 0;
+  list-style: inside;
+}
+
+.weRight li {
+  font-size: 1.2rem;
+  padding: 5px 0;
+}
+
+.footerRight {
+  align-items: start;
+}
+
+.weLeft img {
+  width: 400px;
+}
+
+@media screen and (max-width: 1024px) {
+  .whowe_card {
+    padding: 10px;
+  }
+
+  .whowe_card legend {
+    font-size: 2rem;
+  }
+
+  .whowe_card legend span {
+    font-size: 2.6rem;
+  }
+
+  .weLeft img {
+    width: 300px;
+  }
+
+  .weRight h1 {
+    font-size: 2rem;
+  }
+
+  .weRight h1 .spanone {
+    font-size: 2.3rem;
+  }
+
+  .weRight li {
+    font-size: 1rem;
+  }
+}
+
+@media screen and (max-width: 768px) {
+  /* CSS styles specific to iPads and Tablets */
+  .whowe_card {
+    flex-direction: column;
+    padding: 20px 40px;
+  }
+
+  .weLeft img {
+    width: 300px;
+  }
+  .weRight h1 {
+    font-size: 2rem;
+  }
+
+  .weRight h1 .spanone {
+    font-size: 2.3rem;
+  }
+}
+
+@media screen and (max-width: 480px) {
+  /* CSS styles specific to mobile devices */
+  .whowe_container {
+    padding: 10px;
+  }
+
+  .whowe_card {
+    zoom: 0.8;
+    width: 100vw;
+    padding-bottom: 10px !important;
+  }
+  .weLeft img {
+    width: 170px;
+    margin: -30px;
+  }
+
+  .whowe_card legend {
+    line-height: 0.9;
+    font-size: 1.6rem;
+  }
+
+  .whowe_card legend span {
+    font-size: 2.0rem;
+  }
+
+  .whowe_card {
+    flex-direction: column;
+    padding: 30px 20px;
+  }
+
+  .weRight h1 {
+    font-size: 1.2rem;
+    padding: 5px 0;
+  }
+
+  .weRight ul {
+    padding: 5px 0;
+  }
+
+  .weRight h1 .spanone {
+    font-size: 1.4rem;
+  }
+
+  .weRight p {
+    font-size: 0.9rem;
+    word-spacing: 0.2px;
+  }
+
+  .weRight li {
+    font-size: 0.9rem;
+  }
+}

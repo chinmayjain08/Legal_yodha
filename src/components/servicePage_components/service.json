@@ -1,0 +1,766 @@
+{
+    "Private_Limited_Company_Registration": {
+        "title": "Private Limited Company Registration",
+        "tagline": "Private limited company registration in Jaipur Starting at Just ₹9,000/-* only",
+        "features": [
+            "Ideal for start-ups",
+            "Easy Transferability",
+            "Simple & Secure Online Process",
+            "Dedicated Professional",
+            "Takes 5-7 Days",
+            "Get Post Incorporation Assistance"
+        ],
+        "introduction": "Introduction of Private Limited Company For starting a business in India Private Limited Company is the most popular and an effective medium for higher growth aspirants. It is incorporated under Companies Act, 2013 and has various benefits as it ensures limited liability and separate legal entity which means safeguarding of the personal property. This type of entity is mainly preferred by the start ups and the growing entities. So, if you are willing to start a Company your first priority is to get it registered Once the same is registered it increases its authenticity as well as offers various benefits which can be offering liability protection to protect the Company's assets, attraction of more and more funds etc.",
+        "Minimum_Requirements": [
+            "Minimum Two Directors and maximum Fifteen",
+            "Minimum Two Shareholders",
+            "Minimum one Director shall be Indian resident",
+            "Digital Signatures of Subscriber and Directors",
+            "Director Identification Number if available.",
+            "No Minimum Capital requirement."
+        ],
+        "Documents_required": [
+            "PAN Card of the Member and Directors of the proposed Company (Passport in case of Foreign Nationals)",
+            " Identity Proof of the Member and Directors of the proposed Company;(Aadhar /Voter ID/Driving License/Passport)",
+            "Address Proof of the Members and Directors (Utility Bill/Telephone Bill/Mobile Bill/Bank Statement not older than two months)",
+            "Latest passport size photograph of Member and Directors",
+            "Business Address Proof Owned Property : (Copy of Registry and Latest Govt. Electricity Bill or Water Bill)",
+            "Business Address Proof Rented/leased: Rent Agreement, NOC from the Owner, Latest Govt. Electricity Bill or Water Bill)"
+        ],
+        "process": [
+            {
+                "process_heading": "1. Complete the Application Form",
+                "process_discription": "You are requested to first fill the simple questionnaire provided by our expert team."
+            },
+            {
+                "process_heading": "2. Document Processing",
+                "process_discription": "At the second step we will be requiring the documents in accordance with the questionnaire filled by you so that we can arrange them as per the requirement and for processing."
+            },
+            {
+                "process_heading": "3. Application for DSC",
+                "process_discription": "First of all DSC (Digital Signature Certificate consisting of the E-signatures) is required to be prepared. This step can be ignored if prepared already. It will approximately take 1-2 days."
+            },
+            {
+                "process_heading": "4. Name Availability",
+                "process_discription": "The next step is to check the name availability. The name should be unique in nature and should not be similar to name of any other entity registered. It may take at least 1-2 days. "
+            },
+            {
+                "process_heading": "5. E-filing for incorporation of a Company",
+                "process_discription": "Once the name is approved, an online application is required to be filed through SPICE+ along with the requisite documents as obtained from the client with ROC. The MOA as well as AOA shall be filed online. This process again takes approximately 2-3 days."
+            },
+            {
+                "process_heading": "6. Get Certificate of Incorporation",
+                "process_discription": "Once the Company gets incorporated we will share all the docs like Incorporation Certificate, MOA , AOA and Digital Signatures."
+            }
+        ]
+    },
+    "Limited_Liability_Partnership_Registration": {
+        "title": " Limited Liability Partnership Registration",
+        "tagline": "LLP Registration in Jaipur starting at Just  ₹ 6,500/- only",
+        "features": [
+            "Ideal for small enterprises",
+            "For like-minded partners",
+            "Simple & Secure Online Process",
+            "Dedicated Professional",
+            "Get Registration in 7-10 Days",
+            "Get Post Incorporation Assistance"
+        ],
+        "introduction": "Introduction of LLP Registration The main object behind is that one partner should not be liable for the acts or negligence of other partners. It combines the features of Partnership and a Company like separate legal entity, limited liability etc. Further, it involves less legal formalities and is easy to register.People often get confused between the selection of their entity whether to go for Private Limited Company or for LLP. LLP is for those people who want to run safe and risk free business and do not want to raise any funding in future from the market and maintain a less compliance entity.",
+        "Minimum_Requirements": [
+            "Minimum two Designated Partner",
+            "DIN of the Designated Partners",
+            "Digital Signature Certificate of one Designated Partner",
+            "Contribution whether tangible or intangible property or other benefits of LLP",
+            "No Minimum Capital requirement.",
+            "At least one Designated Partner should be Indian Resident"
+        ],
+        "Documents_required": [
+            "PAN Card of all partners",
+            " Passport size photograph of all the partners)",
+            "Proof of Identity (Driving License/Voter ID Card/Passport) of the Partner",
+            "Business Address Proof  Owned Property : (Copy of Registry and Latest Govt. Electricity Bill or Water Bill)",
+            " Proof of Address (Utility Bill/Bank Statement/Telephone Bill which should not be later than 2 months)",
+            "Business Address Proof Rented/leased: Rent Agreement, NOC from the Owner, Latest Govt. Electricity Bill or Water Bill)"
+        ],
+        "process": [
+            {
+                "process_heading": "1. Complete the Application Form",
+                "process_discription": "You are requested to first fill the simple questionnaire provided by our expert team."
+            },
+            {
+                "process_heading": "2. Document Processing",
+                "process_discription": "At the second step we will be requiring the documents in accordance with the questionnaire filled by you so that we can arrange them as per the requirement and for processing."
+            },
+            {
+                "process_heading": "3. Name Availability",
+                "process_discription": "The next step is to check the name availability. Now you need to let us know 3 names which should be unique in nature and should not be similar to name of any other entity registered. It may take at least 1-2 days. "
+            },
+            {
+                "process_heading": "4. E-filing for incorporation of a Company",
+                "process_discription": "Once the name is approved, an online application is required to be filed through E-Form Fillip along with the requisite documents as obtained with ROC. This process again takes 2-3 days.."
+            },
+            {
+                "process_heading": "5. Get Certificate of Incorporation",
+                "process_discription": "Lastly, after the approval a Certificate of Incorporation will be provided through e-mail which signifies that the LLP has been incorporated"
+            },
+            {
+                "process_heading": "6. Filing of LLP Agreement",
+                "process_discription": "Within 30 days of the incorporation, LLP Agreement as drafted by our team will be shared and after approval from the partners it will be printed on the stamp paper and will be filed with the Registrar of Companies."
+            }
+        ]
+    },
+    "GST_Registration": {
+        "title": " GST Registration",
+        "tagline": "GST Registration in Jaipur in ₹ 1000/- (All Inclusive)",
+        "features": [
+            "Filing of Application for GST Registration",
+            "Secure GST Identification Number",
+            "Simple & Secure Online Process",
+            "Dedicated Professional",
+            "Get GST Registration in 5-7 Days",
+            "Expert CA Advice"
+        ],
+        "introduction": "Introduction of GST Registration Goods and Services Tax is an indirect tax imposed by the government on Indian Goods and Services It is a value-added tax levied on most goods and services sold for domestic and commercial consumption. The GST is paid by consumers, but it is remitted to the government by the businesses selling the goods and services. The taxes under GST are bifurcated into three parts i.e. CGST, SGST and IGST.",
+        "Minimum_Requirements": [
+            "Supplier of Goods (Turnover Exceeding 40 Lakhs):",
+            "Casual taxable person",
+            " Supplier of services",
+            "Non-Resident taxable person",
+            "Registered under Previous Indirect tax.",
+            "Reverse Charge Mechanism (RCM)",
+            "Interstate supply of Goods and Services",
+            "E-Commerce operators and Vendors",
+            "Input Service Distributor"
+        ],
+        
+        "process": [
+            {
+                "process_heading": "1. Questions Filling",
+                "process_discription": "Fill the questionnaire provided by our team."
+            },
+            {
+                "process_heading": "2. Provide Documents",
+                "process_discription": "Provide us the all documents as per the category of your business mention above"
+            },
+            {
+                "process_heading": "3. Application Filling",
+                "process_discription": "We will file the application GST registration and obtain the OTP from you as required. "
+            },
+            {
+                "process_heading": "4. Online Portal Access",
+                "process_discription": "Within 2-3 days after the submission of the application, and after the approval by the department we will send you the GST Registration number and User Id and Password to access the online portal."
+            }
+        ]
+    },
+    "FSSAI_Registration": {
+        "title": "FSSAI Registration",
+        "tagline": "Get FSSAI Registration in Jaipur starting from ₹ 2500/-",
+
+        
+        "features": [
+            "Filing of Application for Food License",
+            "For FBOs",
+            "Simple & Secure Online Process",
+            "Dedicated Professional",
+            "Get your Food License in 7-10 days",
+            " Hassle-Free Process"
+           
+        ],
+        "introduction": "Introduction of FSSAI Registration in Jaipur FSSAI stands for Food Safety and Standards Authority of India. It is a regulatory body that is established and governed by the Food Safety and Standards Act, 2006. The Act came into force to ensure the safety of food products delivered to the consumers. It ensures all the food products undergo proper quality checks thereby reducing the food adulteration and sale of low-standard products. It is a body responsible for providing registration and licensing of the Food Business Operators (FBO) in India and it lays down the guidelines for running the food business in India..",
+        
+       
+      
+        "process": [
+            {
+                "process_heading": "1. Complete the Application Form",
+                "process_discription": "You are requested to first fill the simple questionnaire provided by our expert team."
+            },
+            {
+                "process_heading": "2. Document Processing",
+                "process_discription": "At the second step we will be requiring the documents in accordance with the questionnaire filled by you so that we can arrange them as per the requirement and for processing. The checklist for documents will be provided as per the type of entity."
+            },
+            {
+                "process_heading": "3. Filing of Application",
+                "process_discription": "We will apply for your FSSAI License application along with the documents and other declarations online with FSSAI. "
+            },
+            {
+                "process_heading": "4.  Issuance of FSSAI License",
+                "process_discription": "After the processing and verification of application and inspection by the concerned officer, FSSAI License will be issued."
+            }
+        ]
+    },
+    "ISO_Certification": {
+        "title": "  ISO Certification",
+        "tagline": "Get ISO Certification in Jaipur starting from ₹ 3,000/-",
+        "features": [
+            "For International Accreditation",
+            "Creates brand marketability",
+            "Simple & Secure Online Process",
+            "Dedicated Professional",
+            "Get ISO in 2-3 days",
+            "Hassle Free Process"
+        ],
+        "introduction": "Introduction of ISO Certification in Jaipur ISO certifications certify a management system, manufacturing process, service, or documentation procedure and certify that the organization has all the requirements for standardization and quality assurance. ISO (International Organization for Standardization) is an independent, non-governmental, international organization that develops standards to ensure the quality, safety, and efficiency of products, services, and systems",
+      
+        "Documents_required": [
+            "PAN card",
+            " Passport size photo",
+            "Aadhaar card or voter ID card",
+            "Copy of sales or purchase bill",
+            "Certificate of Incorporation",
+            "GST Certificate"
+        ],
+        "process": [
+            {
+                "process_heading": "1. Complete the Application Form",
+                "process_discription": "You are requested to first fill the simple questionnaire provided by our expert team."
+            },
+            {
+                "process_heading": "2. Document Processing",
+                "process_discription": "At the second step we will be requiring the documents in accordance with the questionnaire filled by you so that we can arrange them as per the requirement and for processing."
+            },
+            {
+                "process_heading": "3.  Submission of documents",
+                "process_discription": "We will prepare the required documents and make arrangement for the ISO audit of the organization based on the chosen certificate. "
+            },
+            {
+                "process_heading": "4. Issuance of Certificate",
+                "process_discription": "After the processing, verification and audit of organization the ISO Certificate will be issued and will be sent to you via courier and mail."
+            }
+        ]
+    },
+
+    "PF_ESI_Registration": {
+        "title": "PF/ESI Registration",
+        "tagline": "Get PF ESI Registration in Jaipur at ₹3,000/- (All inclusive)",
+
+        
+        "features": [
+            "Filing application at Shram Suvidha",
+            "Simple & Secure Online Process",
+            "Entities having 10/20 employees",
+            "Dedicated Professional",
+            "Get PF/ESI in 2-3 days",
+            "Hassle-Free Process"
+           
+        ],
+        "introduction": "Employees’ State Insurance Corporation is a statutory corporate body set up under the ESI Act 1948, which is responsible for the administration of ESI Scheme. The ESI is a self-financed social security comprehensive scheme devised to protect the employees against financial distress such as sickness, disablement or death due to employment injuries. Employee State Insurance scheme is applicable to all the factories and establishments defined in ESI Act 1948 having 10 or more employees employed during the previous year. However, insurance is deducted for those employees only whose wages for the month is upto Rs. 21,000. The establishments falling under this category are required to register under the act within 15 days of the applicability EPF stands for Employee Provident Fund that is a scheme for providing monetary benefit to all salaried employees which act as the best investment methods. Any organization that has a count of employees more than 20 must get registered under EPFO. The employer must get the establishment registered within 1 month of reaching the limit of 20 employees",
+        
+       
+        
+                   "Documents_required": [
+                    "Rent Agreement",
+                    "Factory registration certificate or license",
+                    "PAN of Organization",
+                    "GST Certificate, if any",
+                    "CMOA/AOA or Partnership Deed or Trust Deed",
+                    "Monthly employee’s status and salary",
+                    "Photograph of Promoter",
+                    "PAN and Aadhar of Promoter"
+                ],
+        "process": [
+            {
+                "process_heading": "1. Complete the Application Form",
+                "process_discription": "You are requested to first fill the simple questionnaire provided by our expert team."
+            },
+            {
+                "process_heading": "2. Document Processing",
+                "process_discription": "At the second step we will be requiring the documents in accordance with the questionnaire filled by you so that we can arrange them as per the requirement and for processing. The checklist for documents will be provided as per the type of entity."
+            },
+            {
+                "process_heading": "3. Filing of Application",
+                "process_discription": "We will apply for your ESI/EPFO application along with the documents and other declarations online at Shram Suvidha Portal."
+            },
+            {
+                "process_heading": "4.  Issuance of Certificate",
+                "process_discription": "After the processing and verification of application ESI and PFI number will be generated and will be communicated to you via mail and call."
+            }
+        ]
+    },
+
+    
+    "IEC_Code_Registration": {
+        "title": "IEC Code Registration in Jaipur",
+        "tagline": "Get IEC Code Registration in Jaipur in ₹ 2500 (All inclusive)",
+        "features": [
+            "For Importers and Exporters",
+            "Filing application with DGFT",
+            "Simple & Secure Online Process",
+            "Dedicated Professional",
+            "Hassle-Free Process",
+            "Get IE Code in 2-3 days"
+        ],
+        "introduction": " Introduction of IEC Code Registration in Jaipur Import Export Code (IEC) Registration is a process essential for every importer and exporter merchants for carrying on the business of import and export of goods or services. It is a ten digit code issued on PAN basis which is required for carrying Import Export business.All exporters must mention their IE Code while exporting their goods from India. All importers must mention their IE Code while clearing customs when their goods arrive in India. Also, now RBI requests the entities importing or exporting services to also mention IE Code in foreign remittances in bank accounts. Therefore, IE Code is required for anyone involved in import or export in India.",
+        
+        "Documents_required": [
+            "PAN Card of the Member and Directors of the proposed Company (Passport in case of Foreign Nationals)",
+            " Identity Proof of the Member and Directors of the proposed Company;(Aadhar /Voter ID/Driving License/Passport)",
+            "Address Proof of the Members and Directors (Utility Bill/Telephone Bill/Mobile Bill/Bank Statement not older than two months)",
+            "Latest passport size photograph of Member and Directors",
+            "Business Address Proof Owned Property : (Copy of Registry and Latest Govt. Electricity Bill or Water Bill)",
+            "Business Address Proof Rented/leased: Rent Agreement, NOC from the Owner, Latest Govt. Electricity Bill or Water Bill)"
+        ],
+        "process": [
+            {
+                "process_heading": "1. Complete the Application Form",
+                "process_discription": "Fill the basic questionnaire provided by our team and fill the details."
+            },
+            {
+                "process_heading": "2. Document Submition",
+                "process_discription": "Submit all the documents mentioned herein above to us"
+            },
+            {
+                "process_heading": "3. Recieve OTP",
+                "process_discription": "You will receive an OTP on your Mobile no. and Email."
+            },
+            {
+                "process_heading": "4. Applying for IEC registration",
+                "process_discription": "After receiving the OPT we proceed further and apply for your Import export code registration with DGFT. "
+            },
+            {
+                "process_heading": "5. Paying Government FEE",
+                "process_discription": "We will pay the Government registration Fee of IE code Registration."
+            },
+            {
+                "process_heading": "6. Get IE code licence",
+                "process_discription": "Once the application gets approved we will provide you the IE code license on your email id"
+            }
+        ]
+    },
+    "MSME_Registration": {
+        "title": "(Udyam Registration) MSME Registration in Jaipur",
+        "tagline": "Get MSME Registration in Jaipur at just ₹ 1000/- (All inclusive)",
+        "features": [
+            "For manufacturers and service providers",
+            "Various Government Relaxations",
+            "Simple & Secure Online Process",
+            "Dedicated Professional",
+            "Hassle-Free Process",
+            "Get MSME in 2-3 days"
+        ],
+        "introduction": " According to Micro, Small & Medium Enterprises Development (MSMED) Act, 2006 the Micro, Small and Medium Enterprises (MSME) are classified into two categories:->Manufacturing Enterprises: Manufacturing Enterprises are those enterprises which engaged in the manufacture or production of goods. The Manufacturing Enterprise is defined in terms of investment in Plant & Machinery. Service Enterprises: The enterprises engaged in providing or rendering of services and are defined in terms of investment in equipment.",
+        "Documents_required": [
+            "PAN Card of Entity",
+            " Cancelled Cheque",
+            "GSTN, if any.",
+            "Adhaar Card of Individual/Authorized Signatory"
+         
+        ],
+        "process": [
+            {
+                "process_heading": "1. Complete the Application Form",
+                "process_discription": "Fill the basic questionnaire provided by our team and fill the details."
+            },
+            {
+                "process_heading": "2. Document Submition",
+                "process_discription": "Submit all the documents mentioned herein above to us"
+            },
+           
+            {
+                "process_heading": "4. Applying for MSME registration",
+                "process_discription": "We will further apply for Udyam registration of your Entity "
+            },
+           
+            {
+                "process_heading": "6. Get MSME Registration Certification",
+                "process_discription": "Once your business gets registered under MSME Act 2006 we will provide you the Registration certificate by email."
+            }
+        ]
+    },
+    "Section_NPO": {
+        "title": "(NPO) Section-8 Company Registration",
+        "tagline": "Section 8 Company Registration only at ₹ 12,000/- (Inclusive of all fees)",
+        "features": [
+            "Ideal for charitable purpose",
+            "For Non-Profit Organisation/NGO",
+            "Simple & Secure Online Process",
+            "Dedicated Professional",
+            "Takes 5-7 Days",
+            "Get Post Incorporation Assistance"
+        ],
+        "introduction": "Introduction of Section-8 Company(Not for Profit Organisation)Section 8 company is incorporated with an object to promote commerce, art, science, sports, research, education, religion, protection of environment, charity or any other object, who intends to apply their income and profits in promoting their objects and prohibits the payment of dividend to its members. Section-8 Company can be incorporated as a Private or Public Company.",
+        "Minimum_Requirements": [
+            "Minimum Two Directors and maximum Fifteen",
+            "Minimum two Members",
+            "Non-profit objective i.e. charitable object",
+            "Digital Signatures of Subscriber and Directors",
+            "Director Identification Number if available.",
+            "No Minimum Capital requirement."
+        ],
+        "Documents_required": [
+            "PAN Card of the Member and Directors of the proposed Company (Passport in case of Foreign Nationals)",
+            " Identity Proof of the Member and Directors of the proposed Company;(Aadhar /Voter ID/Driving License/Passport)",
+            "Address Proof of the Members and Directors (Utility Bill/Telephone Bill/Mobile Bill/Bank Statement not older than two months)",
+            "Latest passport size photograph of Member and Directors",
+            "Business Address Proof Owned Property : (Copy of Registry and Latest Govt. Electricity Bill or Water Bill)",
+            "Business Address Proof Rented/leased: Rent Agreement, NOC from the Owner, Latest Govt. Electricity Bill or Water Bill)"
+        ],
+        "process": [
+            {
+                "process_heading": "1. Complete the Application Form",
+                "process_discription": "You are requested to first fill the simple questionnaire provided by our expert team."
+            },
+            {
+                "process_heading": "2. Document Processing",
+                "process_discription": "At the second step we will be requiring the documents in accordance with the questionnaire filled by you so that we can arrange them as per the requirement and for processing."
+            },
+            {
+                "process_heading": "3. Application for DSC",
+                "process_discription": "First of all DSC (Digital Signature Certificate consisting of the E-signatures) is required to be prepared. This step can be ignored if prepared already. It will approximately take 1-2 days."
+            },
+            {
+                "process_heading": "4. Name Availability",
+                "process_discription": "The next step is to check the name availability. The name should be unique in nature and should not be similar to name of any other entity registered. It may take at least 1-2 days. "
+            },
+            {
+                "process_heading": "5. E-filing for incorporation of a Company",
+                "process_discription": "Once the name is approved, an online application is required to be filed through SPICE+ along with the requisite documents as obtained from the client with ROC. The MOA as well as AOA shall be filed online. This process again takes approximately 2-3 days."
+            },
+            {
+                "process_heading": "6. Get Certificate of Incorporation",
+                "process_discription": "Once the Company gets incorporated we will share all the docs like Incorporation Certificate, MOA , AOA and Digital Signatures."
+            }
+        ]
+    },
+    "Trademark_Registration":{
+        "title": "Trademark Registration",
+        "tagline": "Get Trademark Registration in just ₹ 7,000/- (All Inclusive)",
+        "features":[
+            "For protecting the brand name",
+            "Avoid Infringement",
+            "Simple and Secure Online Process",
+            "Dedicated Professional",
+            "Hassle-Free Process",
+            "Get Registration in 2-3 days"
+        ],
+        "introduction": "For developing new products and methods, brand names, content, etc. there is always a need of huge investments and resource-intensive. Hence, the individuals or entities producing them must have particular rights over their creation to the exclusion of others. Intellectual Property systems and laws provide this individuality.",
+        "Documents_required":[
+            "ID Proof (Driving License, Voter ID card or passport)",
+            "PAN Card of the Member and Directors of the proposed Company",
+            "Brand Name (a soft copy of brand name and logo to be registered)",
+            "Power of Attorney/User Affidavit; (Draft will be provided by us)",
+            "MSME Certificate in case of Company",
+            "Certificate of incorporation/registration (other than individual)"
+        ],
+        "process": [
+            {
+                "process_heading": "1. Complete Questionnaire",
+                "process_discription": "We will provide a questionnaire which is required to be filled by you in which we will sought the basic details and documents pertaining to the registration of trademark."
+            },
+            {
+                "process_heading":"2. Trademark Search",
+                "process_discription":"The first and foremost step under the registration of a trademark is to search the availability of the proposed name. "
+            },
+            {
+                "process_heading":"3. Submitting Documents",
+                "process_discription":"The next step is to submit the documents and to begin with this step we will use the information as provided by you along with the signed documents. . "
+            },
+            {
+                "process_heading":"4. Preparation of TM Application",
+                "process_discription":"After receiving the relevant information as well as the signed documents we will move towards preparation of your trademark application in TM-A. Once the trademark application is prepared, we will share with you, the draft application of trademark application for review."
+            },
+            {
+                "process_heading":"5. Trademark Challan",
+                "process_discription": "It usually takes 2-3 days for filing a trademark application with the Registrar. Upon the successful submission of trademark Application to the registrar; we will provide you with the trademark application which will be in TM-A form along with the copy of challan. "
+            },
+            {
+                "process_heading":"6. Trademark Registered",
+                "process_discription":"With the successful completion of above steps it takes around 6 months to one year to get the desired mark registered. It is a long process to get the R Mark. "
+            }
+        ]
+    },
+
+    "Copyright_Registration":{
+        "title": "Copyright Registration",
+        "tagline": "Get Copyright Registration starting from ₹4000/-",
+        "features":[
+            "For protecting your work",
+            "Avoid Infringement",
+            "Simple and Secure Online Process",
+            "Dedicated Professional",
+            "Hassle-Free Process",
+            "Get Registration in 2-3 days"
+        ],
+        "introduction":"Due to the increasing awareness amongst people of intellectual property rights and with the continuous advancement in technology and there is a rush amongst the amount of intellectual property rights that are being registered in India. Hence Legal Window provides you a facility to register the intellectual property online.",
+        "Documents_required":[
+            "ID and Address proof of the Applicant",
+            "Power of Attorney",
+            "Search Certificate from the trademark office : If the work is to be used on a product",
+            "NOC from author if author is different from applicant",
+            "NOC from publisher if work is published and publisher is different from applicant",
+            "NOC from a person whose photo is appearing in the work, if any",
+            "In case of copyright of any software : Provide source code and object code.", 
+            "DD/IPO as per applicable work", 
+            "If the work is not published : 2 copies of work/graphical notes",
+            "If the work is published : 3 copies of the work"
+        ],
+        "process":[
+            {
+                "process_heading":"1. Complete the Questionnaire",
+                "process_discription": "We will provide you a questionnaire which is required to be filled by you in which we will sought the basic details and documents pertaining to the registration of Copyright."
+            },
+            {
+                "process_heading":"2. Requirement of Documents",
+                "process_discription": "Basic documents as stated in the above paragraph in accordance with the questionnaire provided are required along with an authorization letter which is to be signed by you."
+            },
+            {
+                "process_heading":"3. Application for Registration",
+                "process_discription": "Application will be prepared by us with the help of our experts and will be submitted to the Registrar of Copyright in the prescribed format and can be done either physically or electronically within 2 working days."
+            },
+            {
+                "process_heading":"4. Conduct Hearing",
+                "process_discription": "In case any objection is received by the Registrar. He shall conduct a hearing on the application of copyright and if no objections are received within the prescribed time of 30days, the scrutinizer will check the application for any disparity."
+            },
+            {
+                "process_heading":"5.Registration of Work",
+                "process_discription": "If no disparity occurs, the registration will be done and extract of the same shall be sent to the Registrar for entry. If any disparity occurs and on successful completion of hearing conducted by the Registrar the scrutinizer will again scrutinize the application and will give its decision."
+            }
+        ]
+    },
+
+    "Design_Registration":{
+        "title":"Design Registration",
+        "tagline":"Get Design Registration starting from ₹ 8000/-", 
+        "features":[
+            "For protecting your designs", 
+            "Avoid Infringement", 
+            "Simple and Secure Online Process",
+            "Dedicated Professional", 
+            "Hassle Free Process", 
+            "Get Registration in 2-3 days"
+        ],
+        "introduction":"Design registration is a type of intellectual property right governed by the Design Act, 2000 which helps to protect any newly created shape, configuration, patterns, and composition of lines or colours applied to an article created under an industrial process from counterfeiting",
+        "Minimum_Requirements":[
+            "Applicant’s name, Address and nationality. In case the applicant is not a natural person then a documentary proof stating the legal status and the place of incorporation", 
+            "Name of the article to which the design is to be applied.", 
+            "A brief statement of the novelty and claims for his design", 
+            "Class of the article embodying the design",
+            "Name(s), age and address (es) and nationality (ies) of the Applicant/s whether they are partners or Directors of the firm/company.", 
+            "Name, address, designation and nationality of the person who signs the General Power of Attorney"
+        ],
+        "Documents_required":[
+            "ID and Address Proof of the Applicant", 
+            "Certified True Copy of the Power of Attorney (if any) given to the Agent duly signed by the proprietor, partner or one of the Directors of the Company", 
+            "Affidavits in paragraph form containing a declaration of its truthfulness and verifiability", 
+            "Documentary proof of priority required in the case if any previous registration or application for registration made"
+        ],
+        "process":[
+            {
+                "process_heading":"1. Complete the Questionnaire",
+                "process_discription":"We will share a checklist with you asking about the documents as stated above for filing of Application on your behalf. It is important that an Application is filled with the professional help addressing all the aspects of the Design Act, 2000 thereby increasing the chances of getting it registered."
+            },
+            {
+                "process_heading":"2. Acceptance of Application & Registration",
+                "process_discription":"We will file the application duly in the prescribed form duly signed t along with the requisite documents and which is thereafter will be examined by the Design Office and objections if any are raised to that."
+            },
+            {
+                "process_heading":"3. Publication &Validity",
+                "process_discription":"Post registration of the design, it is notified in the official journal. The registered design is valid for 10 years which may be extended to another 5 years on filing of application for extension with payment of prescribed amount."
+            }
+
+        ]
+    }, 
+    "Income_Tax_Return": {
+        "title":"Income Tax Return",
+        "tagline":"File Income Tax Return Individual Online Starting from ₹ 500/-", 
+        "features":[
+            "Filing ITR", 
+            "Filing Forms", 
+            "Flexible and Simple online Process",
+            "Consultancy from Experts",
+            "On time compliances",
+            "Get your registration in 3-4 days"
+        ],
+        "introduction":"Income Tax Return is a form required to be filed with Income Tax Department. The format and applicability of these forms are defined by Income Tax Department. All forms have separate disclosure requirements according to the Incomes Reported.",
+        "Minimum_Requirements": [
+            "Applicant's name, address, nationality, legal proof",
+            "Details of taxpayer's income sources",
+            "Taxpayer's TIN or PAN",
+            "Supporting documents like Form W-2, profit statements, rental agreements, etc.",
+            "Bank account details for tax refunds",
+            "Details of deductions and exemptions claimed",
+            "Other relevant financial information for tax filing"
+        ],
+        "Documents_required":[
+            "Aadhar card",
+            "Pan card",
+            "Form 16 (having details of salary)",
+            "Bank statement",
+            "Investment under section 80",
+            "Financial Statements",
+            "Receipt of sale of capital assets",
+            "Receipt of purchase of capital assets"
+        ],
+        "process": [
+            {
+              "process_heading": "1. Complete the Questionnaire",
+              "process_discription": "Fill out the provided questionnaire with details about your income and provide necessary documents based on your income category. We will use this information to prepare and file your income tax return accurately and on time."
+            },
+            {
+              "process_heading": "2. Document Submission and Verification",
+              "process_discription": "Submit all required documents as per your income category for verification. Our team will analyze the details and ensure everything is in order. We will seek verification from you and the client to proceed with filing your income tax return."
+            },
+            {
+              "process_heading": "3. Filing of Income Tax Return",
+              "process_discription": "Upon verification and approval, we will proceed to file your income tax return before the due date. Our goal is to protect you from penalties by ensuring all necessary steps are completed accurately."
+            },
+            {
+              "process_heading": "4. Post-Filing Follow-Up",
+              "process_discription": "After filing your income tax return, we will inform you about the completion of the process. We will provide you with the return form and computation for your records."
+            }
+          ]
+    }, 
+    "GST_Return": {
+        "title":"GST Return Filing",
+        "tagline":"GST Return Filing service Starting from ₹ 500/-", 
+        "features": [
+            "Filing GST Return",
+            "Obtain GST Number",
+            "Draft GST return documents in a prescribed format",
+            "Professional’s advice",
+            "Secure and simple online procedure",
+            "Get your GST return done in 4-5 days"
+        ],
+        "introduction":"GST returns is a document in which every registered dealer provide the required details to concerned Tax Authorities in a set format prescribed by the Government. It contains various details regarding total turnover, purchases, tax collected on sales (output tax), and tax paid on purchases (input tax) of supplier under Goods and Services Act etc.",
+        "Minimum_Requirements": [
+            "Taxpayer's name, address, nationality, legal proof",
+            "Details of taxable supplies, sales invoices, revenue records",
+            "GSTIN or tax identification number",
+            "Supporting sales and purchase documents",
+            "Bank account details for GST transactions",
+            "Input tax credit (ITC) details with valid invoices",
+            "Financial info for accurate GST compliance"
+        ],
+        "Documents_required": [
+            "GST ID and Password (Login Credentials)",
+            "Purchase Invoices from Registered Persons",
+            "Purchase Invoices from Unregistered Persons",
+            "Receipts or Invoices for Goods Liable for Reverse Charge",
+            "Sales Invoices to Registered Persons",
+            "Sales Invoices to Unregistered Persons",
+            "Documents Supporting Exempt Sales",
+            "Digital Signature Certificate (DSC) in case of a company"
+        ],
+        "process": [
+            {
+              "process_heading": "1. Complete the Application Form",
+              "process_discription": "Fill out the simple questionnaire provided by our expert team to determine the GST return filing status and requirements."
+            },
+            {
+              "process_heading": "2. Document Processing",
+              "process_discription": "Submit the necessary documents based on the questionnaire filled out in step 1. Our team will organize and process the documents according to GST requirements."
+            },
+            {
+              "process_heading": "3. Preparation of Form Filing",
+              "process_discription": "Process the purchase and sale bills for the reporting period (month/quarter), reconcile transactions, and prepare the GST return form accordingly."
+            },
+            {
+              "process_heading": "4. Submission of the GST Return",
+              "process_discription": "After verification of all data and client approval, our professionals will file the GST return on the GST Portal."
+            },
+            {
+              "process_heading": "5. Information to Client",
+              "process_discription": "Provide acknowledgment and information to the client via email or other means after the GST return has been successfully submitted."
+            }
+        ]
+    }, 
+    "TDS_Return": {
+        "title":"TDS Return Filing",
+        "tagline":"TDS Return Filing Starting from ₹ 1000/-", 
+        "features": [
+            "Tax Filing for Entities",
+            "TDS Return Filing",
+            "Document Drafting for TDS",
+            "Timely Form Filing",
+            "TDS Compliance Guidance",
+            "Secure TDS Certificates"
+        ],
+        "introduction":"Tax deduction at source is a way of collecting tax on income, dividends or asset sale, before filling of income tax return by requiring the payer to deduct tax liable and the income of payee before paying the amount to the payee. In India, under the Indian Income Tax Act of 1961, income tax must be deducted at source according to the provisions of the Income Tax Act, 1961.",
+        "Minimum_Requirements": [
+            "Taxpayer's name, address, nationality, legal proof",
+            "Details of deductibles and tax deductions",
+            "Permanent Account Number (PAN) or tax ID",
+            "Supporting TDS deduction and remittance proof",
+            "Bank account details for TDS transactions",
+            "Tax credits, exemptions, and TDS credits",
+            "Relevant financial information for TDS computation"
+        ],
+        "Documents_required": [
+            "Tax payment challans (proof of TDS payments made)",
+            "PAN card (Permanent Account Number of the taxpayer)",
+            "TDS deduction details including PAN number of deductees",
+            "Proper information and section under which TDS is deducted"
+        ],
+        "process": [
+            {
+              "process_heading": "1. Complete the Questionnaire",
+              "process_discription": "Fill out the provided questionnaire with basic details and submit necessary documents required for filing TDS returns."
+            },
+            {
+              "process_heading": "2. Review of the Documents",
+              "process_discription": "Our team will review the documents provided along with the questionnaire to initiate the preparation of the TDS return."
+            },
+            {
+              "process_heading": "3. Filing of TDS Return",
+              "process_discription": "We will send you a provisional return for verification. After confirmation and validation from your side, we will file your TDS return before the due date to ensure compliance and avoid penalties."
+            },
+            {
+              "process_heading": "4. Acknowledgment",
+              "process_discription": "Upon successful filing of your TDS return, we will inform you and provide the acknowledgment receipt for your records."
+            }
+        ]
+    }, 
+    "Income_Tax_Notice": {
+        "title":"Income Tax Notice",
+        "tagline":"Audit under GST Starting from ₹4,000/-", 
+        "features":[
+            "Record Management",
+            "GST Audit Support",
+            "Return Matching",
+            "Form Filing",
+            "Compliance Assistance",
+            "Verification Services"
+        ],
+        "introduction":"GST Audit under sec 13(2) of CGST Act , 2017 is the process of examination of records, returns and other documents maintained by a taxable person and also verifying the completion of compliances within the time frame allowed. The purpose is to verify the correctness of turnover declared, taxes paid, refund claimed and input tax credit availed, and to assess the compliance with the provisions of GST.",
+        "Minimum_Requirements": [
+            "Taxpayer's name, address, nationality, legal proof",
+            "Details of taxable supplies, sales invoices, revenue records",
+            "GSTIN or tax identification number",
+            "Supporting purchase and expense documents",
+            "Bank account details for GST transactions",
+            "Input tax credit (ITC) details with invoices",
+            "Tax credits, exemptions, adjustments details",
+            "Financial information for accurate GST compliance"
+        ],
+        "Documents_required": [
+            "Sales and purchase invoices (bills) for the audit period",
+            "Data of earlier GST returns filed (GSTR-1, GSTR-3B, etc.) for comparison and verification",
+            "Registers maintained as per GST laws, including sales register, purchase register, input tax credit register, etc.",
+            "GSTIN (Goods and Services Tax Identification Number), User ID, and password for accessing GST portal and relevant information",
+            "E-way bill entries for goods transported during the audit period, if applicable"
+        ],
+        "process": [
+            {
+              "process_heading": "1. Complete the Application Form",
+              "process_discription": "Fill out the provided questionnaire to assess the status of books of accounts and gather necessary information for the GST audit."
+            },
+            {
+              "process_heading": "2. Document Processing",
+              "process_discription": "Submit required documents and information based on the questionnaire filled out in step 1. Our team will organize and process the documents for further analysis."
+            },
+            {
+              "process_heading": "3. Preparation of Financial Statements",
+              "process_discription": "Prepare financial statements and analyze the accuracy of documents provided to ensure compliance with GST regulations."
+            },
+            {
+              "process_heading": "4. Submission of GST Audit Report",
+              "process_discription": "After verifying all data and reconciling statements, the practicing professional will prepare and submit the GST Audit Report along with observations and comments, if any."
+            },
+            {
+              "process_heading": "5. Information to Client",
+              "process_discription": "Provide acknowledgment and detailed information to the client via email or other means after submitting the GST Audit Report."
+            }
+        ]
+    }
+    
+}

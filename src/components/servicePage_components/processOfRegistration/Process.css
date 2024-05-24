@@ -1,0 +1,102 @@
+.process {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.process_heading {
+  font-size: 2.2rem;
+  text-align: center;
+  border-bottom: 4px solid var(--dark1);
+  text-align: center;
+}
+
+.process_heading span {
+  /* font-size: 2.8rem; */
+  color: var(--dark1);
+  /* text-shadow: 3px 3px 2px rgba(0, 0, 0, 0.3); */
+  /* text-transform: uppercase; */
+  /* letter-spacing: ; */
+}
+
+.processes_container {
+  display: flex;
+  justify-content: center;
+  column-gap: 0px;
+  /* margin: 20px 150px; */
+  margin: 20px 0;
+  width: 80vw;
+  align-items: center;
+  flex-wrap: wrap;
+}
+.singleProcess {
+  width: 45%;
+  padding: 20px;
+  background-color: var(--lighter2);
+  border-radius: 5px;
+  box-shadow: rgba(0, 0, 0, 0.24) 0px 3px 8px;
+  margin: 10px;
+  height: max-content;
+}
+
+.singleProcess:hover {
+  transform: scale(1.01);
+}
+
+.singleProcess .PHBold {
+  font-size: 1.2rem;
+  font-weight: 600;
+}
+
+.singleProcess .processDescription {
+  opacity: 0.6;
+}
+
+@media screen and (max-width: 1000px) {
+  .processes_container {
+    width: 90vw;
+    column-gap: 10px;
+  }
+  .process_heading {
+    font-size: 25px;
+  }
+  .process_heading span {
+    font-size: 25px;
+  }
+  .singleProcess .PHBold {
+    width: 100%;
+    font-size: 14px;
+  }
+
+  .singleProcess .processDescription {
+    font-size: 12px;
+  }
+}
+
+@media screen and (max-width: 900px) {
+  .singleProcess {
+    width: 40vw;
+  }
+  .process_heading {
+    font-size: 20px;
+  }
+  .process_heading span {
+    font-size: 20px;
+  }
+}
+
+@media screen and (max-width: 800px) {
+  .processes_container {
+    flex-direction: column;
+  }
+  .singleProcess {
+    height: auto;
+    width: auto;
+  }
+}
+
+@media screen and (max-width: 450px){
+  .process{
+    margin-top: 20px;
+  }
+}

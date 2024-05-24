@@ -1,0 +1,285 @@
+.hero {
+  width: 100vw;
+  overflow: hidden;
+  /* background-color: red; */
+  background: url("./image.png");
+  background-size: cover;
+  background-repeat: no-repeat;
+  /* margin-top: 120px; */
+}
+
+.heroContainer {
+  padding: 100px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  width: 80vw;
+  /* height: 80vh; */
+  margin: auto;
+  margin-top: 40px;
+  justify-content: center;
+  text-align: center;
+  overflow: hidden;
+  /* background-color: red; */
+}
+
+.heading h1 {
+  font-size: 50px;
+  padding: 10px;
+}
+
+.heading h1 span {
+  font-size: 55px;
+  color: #ffca8a;
+}
+
+.ssHeading h5 {
+  color: #4fc6a6;
+  padding: 10px;
+  font-size: 20px;
+}
+.subHeading{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+
+}
+
+.subHeading h4 {
+  font-size: 15px;
+  color: grey;
+  font-weight: 400;
+  padding: 20px;
+  font-size: 20px;
+  line-height: 20px;
+  text-align: center;
+  width: 70%;
+}
+
+.btns {
+  display: flex;
+  justify-content: center;
+  flex-wrap: wrap;
+  align-items: center;
+  width: 80vw;
+}
+
+.btns .btn {
+  background-color: #4ca7e8;
+  cursor: pointer;
+  border-radius: 5px;
+  padding: 8px 10px;
+  margin: 20px 10px;
+  background-color: var(--dark1);
+  font-size: 15px;
+  margin-bottom: 50px;
+  
+  
+}
+.btns .btn2 {
+ 
+  
+  background-color:#4ca7e8
+}
+
+
+.btns .btn2:hover {
+  background-color: #0095ff;
+}
+
+.rectangle {
+  background-color: #4CA7E8;
+  width: 500px;
+  height: 450px;
+  position: absolute;
+  top: 168px;
+  /* border: 1px solid black; */
+  z-index: -1;
+}
+
+.rectangle-right {
+  right: -280px;
+  transform: rotate(50deg);
+}
+.rectangle-left {
+  left: -280px;
+  transform: rotate(-50deg);
+}
+
+
+@media (max-width: 1200px){
+ 
+  .heading h1 {
+    font-size: 30px;
+    
+  }
+  
+  .heading h1 span {
+    font-size: 30px;
+   
+  }
+  
+  .ssHeading h5 {
+  
+    
+    font-size: 16px;
+  }
+  
+  .subHeading h4 {
+    font-size: 15px;
+   
+  }
+}
+  
+
+@media (max-width: 950px){
+  .hero {
+    background-size: contain;
+   
+  }
+  .heading h1 {
+    font-size: 30px;
+    
+  }
+  
+  .heading h1 span {
+    font-size: 30px;
+   
+  }
+  
+  .ssHeading h5 {
+  
+    
+    font-size: 12px;
+  }
+  
+  .subHeading h4 {
+    font-size: 13px;
+   
+  }
+  
+
+}
+@media (max-width: 850px){
+  .hero {
+    background: white;
+   
+  }
+  .heading h1 {
+    font-size: 30px;
+    width: 70vw;
+    
+  }
+  
+  .heading h1 span {
+    font-size: 30px;
+   
+  }
+  
+  .ssHeading h5 {
+  
+    
+    font-size: 15px;
+    width: 50vw;
+  }
+  
+  .subHeading h4 {
+    font-size: 16px;
+    width: 70vw;
+   
+  }
+
+  /* .btns .btn {
+    cursor: pointer;
+   
+    padding: 5px 10px;
+    margin: 10px;
+    font-size: 14px;
+  } */
+  
+
+}
+@media (max-width: 700px){
+  .heroContainer{
+    padding-bottom: 0;
+    padding-top: 10px;
+    margin-top: 0px;
+  }
+  .hero {
+    background-size: contain;
+    /* height: 100vh; */
+   
+  }
+  .heading h1 {
+    font-size: 20px;
+    width: 70vw;
+  }
+  
+  .heading h1 span {
+    font-size: 20px;
+    width: 50vw;
+  }
+  
+  .ssHeading h5 {
+  
+    width: 50vw;
+    font-size: 12px;
+  }
+  
+  .subHeading h4 {
+    font-size: 10px;
+    width: 70vw;
+   
+  }
+
+  .btns .btn {
+   
+    border-radius: 5px;
+    padding: 8px 10px;
+    margin: 5px 5px;
+   
+    font-size: 12px;
+    
+    
+  }
+
+}
+@media (max-width: 400px){
+ 
+  .heading h1 {
+    font-size: 15px;
+    
+  }
+  
+  .heading h1 span {
+    font-size: 15px;
+   
+  }
+  
+  .ssHeading h5 {
+  
+    
+    font-size: 12px;
+  }
+  
+  .subHeading h4 {
+    font-size: 8px;
+    width: 70vw;
+   
+  }
+  
+  .btns .btn {
+   
+    border-radius: 5px;
+    padding: 4px 6px;
+    margin: 5px 5px;
+   
+    font-size: 8px;
+    /* width: fit-content; */
+    
+    
+  }
+
+
+
+}

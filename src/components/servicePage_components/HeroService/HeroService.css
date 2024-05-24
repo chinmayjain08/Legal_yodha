@@ -1,0 +1,186 @@
+.HeroService{
+    width: 100vw;
+    overflow-x: hidden;
+    display: flex;
+    /* justify-content: center; */
+    align-items: center;
+    flex-direction: column;
+    padding: 10px;
+    /* height: 90vh; */
+    margin-top: 20px;
+
+}
+
+.HeroServiceHeading{
+    font-size: 40px;
+    font-weight: bold;
+    margin-bottom: 10px;
+    
+}
+.HeroServiceHeading span{
+    color: #ffca8a;
+
+}
+
+
+.features{
+    display: flex;
+    flex-direction: row;
+    gap: 20px;
+    padding: 20px;
+    width: 70%;
+    flex-wrap: wrap;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+}
+
+.feature{
+    background-color: var(--dark1);
+    display: flex;
+    gap: 10px;
+    padding: 8px;
+    border-radius: 20px;
+}
+
+.featureLine{
+    color: white;
+}
+
+.tickicon{
+    color: #211951;
+}
+
+.Serviceintroduction{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    padding: 20px;
+    
+}
+
+.ServiceIntroHeading{
+    font-size: 30px;
+    font-weight: bold;
+    margin: 10px;
+    color: var(--dark1);
+    padding: 4px;
+    border-bottom: 4px solid var(--dark1);
+
+}
+
+.ServiceIntroHeading span{
+    color: #211951;
+    font-size: 30px;
+}
+
+.paragraphintro{
+    width: 80%;
+    line-height: 30px;
+    text-align:center;
+    font-size: 18px;
+    font-weight: 500;
+}
+
+
+
+@media (max-width:850px){
+   
+    
+    .HeroServiceHeading{
+        font-size: 25px;
+        text-align: center;
+    }
+   .bootom{
+    text-align: center;
+    font-size: 15px;
+   }
+    
+    .features{
+        display: flex;
+        flex-direction: row;
+        gap: 10px;
+        padding: 20px;
+        width: 70%;
+        flex-wrap: wrap;
+        justify-content: center;
+        align-items: center;
+    }
+    
+    .feature{
+        background-color: var(--dark1);
+        display: flex;
+        gap: 10px;
+        padding: 6px;
+        border-radius: 20px;
+    }
+    
+ 
+  
+    
+    .ServiceIntroHeading{
+        font-size: 25px;
+        
+    }
+    
+    .ServiceIntroHeading span{
+       
+        font-size: 25px;
+    }
+    
+    .paragraphintro{
+        width: 80%;
+        line-height: 30px;
+        text-align:center;
+        font-size: 13px;
+        font-weight: 500;
+    }
+}
+
+@media (max-width:500px){
+   
+    
+    .HeroServiceHeading{
+        font-size: 20px;
+        text-align: center;
+    }
+   .bootom{
+    text-align: center;
+    font-size: 12px;
+   }
+
+   .features{
+    width: 80vw;
+}
+.tickicon{
+    font-size: 15px;
+}
+
+
+.feature{
+    font-size: 8px;
+    align-items:center;
+    /* text-align: center; */
+    }
+    
+ 
+  
+    
+    .ServiceIntroHeading{
+        font-size: 20px;
+        
+    }
+    
+    .ServiceIntroHeading span{
+       
+        font-size: 20px;
+    }
+    
+    .paragraphintro{
+        
+        font-size: 10px;
+        text-align: justify;
+        line-height: 18px;
+    }
+}

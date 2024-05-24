@@ -1,0 +1,201 @@
+@import url('https://fonts.googleapis.com/css2?family=League+Spartan:wght@100;200;300;400;500;600;700&display=swap');
+
+/* CONTACT PAGE */
+
+.contact{
+    width: 100vw;
+}
+
+#contact{
+    display:flex;
+    align-items:center;
+    justify-content:space-between;
+    padding: 20px 100px;
+    width: 100%;
+}
+.contact #page-header {
+    background-image: url('./banner1.jpg');
+    color: #002C35;
+    height: 30vh;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+#contact li{
+    list-style: none;
+    display: flex;
+    padding: 18px 0px;
+}
+#contact i{
+    color: rgb(117, 117, 117);
+    padding-right: 18px;
+}
+#contact p{
+    color: rgb(117, 117, 117);
+    font-size: 18px;
+    margin: 0px;
+}
+#contact h2{
+    font-size: 40px;
+    line-height: 32px;
+    padding: 20px 0px;
+}
+#contact .details{
+    width: 40%;
+}
+#contact .map{
+    width: 50%;
+    height: 420px;
+}
+#contact.map iframe{
+    width: 100%;
+    height: 100%;
+}
+
+#form-details{
+    padding: 80px 100px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    border: 1px solid #e1e1e1;
+    border-radius: 8px;
+    background-color: rgb(17, 39, 63);
+    margin-bottom: 50px;
+}
+
+#form-details form{
+    width:100%;
+    display:flex;
+    flex-direction:column;
+    align-items:flex-start;
+}
+
+#form-details form input,
+#form-details form textarea{            
+    width:100%;
+    padding:12px 15px;
+    outline:none;
+    background-color: transparent;
+    margin-bottom:20px;
+    border: 1px solid #00404d;
+    color: #dbf8fe;
+    border-radius: 5px;
+    padding-top: 20px;
+}
+
+#form-details form button{
+    background-color: #1f2759;
+    color: #fff;
+    width: 100%;
+    height: 100%;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    border: none;
+    border-radius: 4px;
+    text-align: center;
+}
+
+#form-details form span{
+    color: white;
+}
+
+#form-details form h2{
+    font-size: 32px;
+    padding: 10px 0px;
+    color: #dbf8fe;
+}
+
+
+/* for Contact Page */
+@media (max-width:920px){
+    #contact{
+        display:flex;
+        align-items:center;
+        flex-direction: column;
+        justify-content:space-between;
+        padding: 20px 80px;
+    }
+    #contact .map{
+        width: 55%;
+    }
+    #contact h2{
+        font-size: 24px;
+    }
+    #contact .map iframe{
+        width: 100%;
+        height: 100%;
+    }
+    #form-details{
+        padding: 20px 40px;
+    }
+    #form-details form{
+        width: 100%;
+    }
+    #form-details .people{
+        padding: 20px;
+    }
+}
+
+@media (max-width: 480px){
+    #contact{
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+        padding: 10px 40px;
+    }
+    #contact .details{
+        width: 100%;
+    }
+    #contact .map{
+        width: 80%;
+    }
+    #contact h2{
+        font-size: 18px;
+    }
+    #form-details{
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+        padding: 20px 20px;
+        border: none;
+    }
+    #form-details form{
+        width: 100%;
+        border: 1px solid #e1e1e1;
+        padding: 20px 20px;
+    }
+    #form-details .people{
+        padding-top: 60px;
+        margin-top: 40px;
+        border: 1px solid #e1e1e1;
+    }
+    #page-header .contact-p{
+        font-size: 16px;
+    }
+}
+
+#socials{
+    display: flex;
+    width: 30%;
+    justify-content: space-between;
+    align-items: center;
+    font-size: 24px;
+    color: #8a8a8a;
+}
+
+#socials a{
+    text-decoration: none;
+    display: flex;
+    align-items: center;
+    transition: all ease 0.5s;
+}
+
+#socials a:hover{
+    color: rgb(87, 87, 87);
+}
+
+#socials p{
+    font-size: 18px;
+    margin-left: 2px;
+}
